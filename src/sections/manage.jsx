@@ -8,7 +8,7 @@ import img4 from '../assets/manage_4.svg';
 
 const ManageSection = () => {
   return (
-    <section className="-mt-32 relative z-10 px-6 md:px-16">
+    <section className="-mt-32 relative z-10 px-6 md:px-16 ml-4 md:ml-42">
       <div className="max-w-5xl mx-auto bg-white rounded-xl shadow-lg p-10">
         {/* Section Title */}
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 text-gray-800">
